@@ -5,6 +5,15 @@ This project provides an interactive **Credit Card Financial Performance Dashboa
 
 ---
 
+
+## 🖼️ Full Dashboard Snapshot
+
+
+![data-analysis-power-bI](https://github.com/user-attachments/assets/2f18e09f-b4f6-400d-a2b4-20a03047d4ad)
+
+
+---
+
 ### Live Interactive Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMDFjMmY0YTItMGMwYS00ZjliLWIzZTQtNjFhZWI0ZjNjOGE3IiwidCI6ImFiMWYyNWI0LTc0YjgtNDc4MS1hZDM0LWVlZjE2OTg2MDViNiIsImMiOjEwfQ%3D%3D
 
 ---
@@ -132,14 +141,6 @@ Previous_week_Revenue = CALCULATE(
 ## 📤 Project Deployment
 
 The dashboard was deployed on Power BI Service for easy sharing.
-
----
-
-## 🖼️ Full Dashboard Snapshot
-
-
-![data-analysis-power-bI](https://github.com/user-attachments/assets/2f18e09f-b4f6-400d-a2b4-20a03047d4ad)
-
 
 ---
 
