@@ -144,10 +144,13 @@ The dashboard was deployed on Power BI Service for easy sharing.
 
 ---
 
+## 🛠️ Tools & Technologies Used 
+
+- Data Visualization (Power BI) 
+- Data Analysis Expressions (DAX)
+
 ## ⚙️ How to Use the Dashboard
 
 1. **Select Filters:** Use slicers on the left to filter data by card category, age group, education level, marital status, and income group.
 2. **Explore KPIs:** View key metrics like total revenue, utilization ratio, and transactions in the top KPI cards.
 3. **Analyze Trends:** Click on pie charts, bar graphs, and maps to explore demographic and geographical trends.
-
----
