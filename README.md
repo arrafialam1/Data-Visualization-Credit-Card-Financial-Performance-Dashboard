@@ -1,7 +1,7 @@
 
 # Credit Card Financial Performance Dashboard 📊
 
-This project provides an interactive **Credit Card Financial Performance Dashboard** built using Power BI. It enables financial institutions to gain actionable insights into revenue, spending patterns, and customer demographics, allowing them to refine strategies and improve financial outcomes.
+This project provides an interactive **Credit Card Financial Performance Dashboard** built using Power BI. It provides actionable insights into revenue, spending patterns, and customer demographics, allowing for strategy refinement and financial improvement.
 
 ---
 
